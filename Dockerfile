@@ -1,4 +1,4 @@
-FROM n8nio/n8n:latest-debian
+FROM n8nio/n8n:1.59.0-debian-bookworm
 
 USER root
 
